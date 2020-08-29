@@ -20,6 +20,7 @@ const browserSyncReload = (cb) => {
 
 // sdgfdsfsdfsdf
 // sdfsdfsdfds
+// adfadfadfasd
 
 const html = () => (
    src([`./${SOURCE_DIR}/**/*.html`, `!**/${INCLUDE_DIR}/**/*.html`])
